@@ -23,6 +23,8 @@ To exercise or assign TOPA rights, a solid majority of households in the buildin
 
 JandJ proposes a web application that allows Tenants to quickly organize their tenant association, communicate, vote, and file a statement of interest, while also helping match a group of tenants appropriate asignees. This application could help tenants overcome the logistic challenges of asserting their TOPA rights and more easily preserve their place of residence.
 
+### Scalability
+
 ### [C4CG](https://www.umass.edu/gateway/article/computing-common-good)
 
 > “C4CG is about integrating values into your work, research, and education. ...It’s about education and research, the two pillars of any college that are going to make lives better not only for the citizens of Massachusetts, but also for the world"
