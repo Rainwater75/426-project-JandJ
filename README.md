@@ -22,3 +22,10 @@ If they decide to assign their rights, the assignee has a limited timeframe (fre
 To exercise or assign TOPA rights, a solid majority of households in the building must actively cooperate. Getting dozens—or hundreds—of neighbors to agree on a single path forward is a massive community-organizing challenge.
 
 JandJ proposes a web application that allows Tenants to quickly organize their tenant association, communicate, vote, and file a statement of interest, while also helping match a group of tenants appropriate asignees. This application could help tenants overcome the logistic challenges of asserting their TOPA rights and more easily preserve their place of residence.
+
+### [C4CG](https://www.umass.edu/gateway/article/computing-common-good)
+
+> “C4CG is about integrating values into your work, research, and education. ...It’s about education and research, the two pillars of any college that are going to make lives better not only for the citizens of Massachusetts, but also for the world"
+> Haas says there are three prongs to C4CG: education; research to improve computer technology, making it better and safer for all; and research to apply that technology or technologies in general to do some good in the world.
+
+In the context our C4CG, the TOPA matching project hits mostly on the third tenant of C4CG: "doing some good in the world". We're seeking to create a tool to aid citizens of Massachusets who're under threat of being displaced by movements in the real estate economy, [a population who typically are not well represented in government](https://nlihc.org/resource/study-finds-renters-are-highly-underrepresented-all-levels-government). A tool that aids tenants in asserting TOPA rights and connecting them with an assignee helps them get that representation and protect their employment, connections to their community, and standard of living.
