@@ -2,9 +2,9 @@
 
 In forming our SLOs, a main consideration that occurred was our much increased need for reliability over speed.
 
-### Latency SLO
+## association-service: The association service is a user facing API
 
-association-service: The association service is a user facing API, so it must respond quickly. Target latency thresholds are P99: 4-5s, P95: 1ms - 2s, P50: ~100ms. It is likely that, if response time exceeds P99, users will refresh the page or submit another request.
+- The get_summary endpoint must respond within 10 s at the 99th percentile. It should approximate the following ranges: P99: 5-10s P95: 1s - 3s, P50: ~100ms. It is likely that if the response time exceeds P99, the tenant association administrator will refresh the page or submit another request.
 
 liaison-service: The liaison-service is not user facing and therefore does not need to respond as quickly. The endpoint response thresholds are as follows: PP:4-5 min, PP95: 1 min, P50: 1-5s. Only the tenant board is waiting for a response, so the algorithm can prioritize finding the perfect match. However, if the algorithm somehow stretches for hours, it would cause frustration due to the need to find an assignee.
 
