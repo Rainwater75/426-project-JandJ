@@ -12,7 +12,7 @@ If they decide to assign their rights, the assignee has a limited timeframe (fre
 
 To exercise or assign TOPA rights, a solid majority of households in the building must actively cooperate. Getting dozens—or hundreds—of neighbors to agree on a single path forward is a massive community-organizing challenge.
 
-jandj proposes a web application that allows Tenants to quickly organize their tenant association, communicate, vote, and file a statement of interest, while also helping match a group of tenants appropriate assignees. This application could help tenants overcome the logistical challenges of asserting their TOPA rights and more easily preserve their place of residence.
+TOPA matching is a web application that allows Tenants of Massachusetts to quickly exercise their TOPA rights. Using it they can organize a tenant association, communicate, vote, and file a statement of interest, while also helping match the TA to appropriate assignees. This application could help tenants overcome the logistic challenges of asserting their TOPA rights and more easily preserve their place of residence.
 
 ### Scalability
 
